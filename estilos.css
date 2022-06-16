@@ -137,7 +137,7 @@ header h1 {
 
 .card {
     position: relative;
-    width: 20%;
+    width: 18%;
     height: 350px;
     background: var(--color-oscuro);
     overflow: hidden;
@@ -230,7 +230,7 @@ iframe {
 }
 
 .content-card-proyectos h3 {
-    font-size: 2vw;
+    font-size: 1.5vw;
     color: #fff;
     font-weight: 600;
     text-transform: uppercase;
@@ -248,7 +248,7 @@ footer {
 
 footer div {
     float: left;
-    width: 25%;
+    width: 20%;
     height: 100%;
     line-height: 100px;
     transition: all 0.5s;
